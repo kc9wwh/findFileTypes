@@ -18,8 +18,8 @@ This script was originally created to search through all the /Users/ directories
 **Step 1 - Configure the Scripts**
 
 When you open the script you will find some user variables that will need to be defined as specified below:
-* Specify searchBase on line 53
-* Specify fileType on line 54
+* Specify *searchBase* on line 53
+* Specify *fileType* on line 54
 
 **Step 2 - Upload the Script**
 
