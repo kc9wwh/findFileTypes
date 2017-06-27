@@ -9,7 +9,7 @@ Written By: Joshua Roskos | Professional Services Engineer | Jamf
 Created On: June 20th, 2017 | Updated On: June 22nd, 2017
 ___
 
-### Implementation
+### Objective
 
 This script was originally created to search through all the /Users/ directories and look for any .olm (Outlook for Mac Archives) and then convert them to read-only.
 
